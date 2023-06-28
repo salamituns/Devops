@@ -5,5 +5,6 @@ Project_OnPrem-AWS
 AWS
 * S3 Bucket
 * Linux OS -Ubuntu
+* AWS EC2 
 
  
