@@ -1,0 +1,10 @@
+00:11:58	persontwo:	We can use Mac Pro with the same memory and storage
+00:12:39	persontwo:	Sure does
+00:18:48	persontwo:	Please share
+00:35:26	Tolu.O:	Rke2 vs Openshift vs Tanzu .. will you say Rke2 is the most popular for on prem?
+00:35:28	Alozie:	Server costs for me is like $6-9/mth
+00:48:37	Leke Serrano:	Reacted to "Server costs for me ..." with 👍
+00:53:04	Komlanvi:	what is the best site to buy virtualized server?
+00:56:56	persontwo:	This is a good micro service application form google to deploy in Kubernetes cluster: https://github.com/GoogleCloudPlatform/microservices-demo.git
+01:02:21	Komlanvi:	need to drop to join the class
+01:03:24	Alfred:	Thanks for this kenna. Many takeaways🙏🏽
